@@ -1,0 +1,25 @@
+{
+  "name": "w4d2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FamousPeople.js",
+  "dependencies": {
+    "knew": "^0.0.0",
+    "knex": "^0.14.6",
+    "pg": "^7.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginyeqm/-Connecting-from-JavaScript-Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginyeqm/-Connecting-from-JavaScript-Assignment/issues"
+  },
+  "homepage": "https://github.com/ginyeqm/-Connecting-from-JavaScript-Assignment#readme"
+}
